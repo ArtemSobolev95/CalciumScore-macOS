@@ -6,12 +6,12 @@ Coronary artery calcium scoring (Agatston score, volume and mass per artery, PDF
 
 ## Download
 
-Current version: **1.0.0**.
+Current version: **1.0.0**. Click the package for your viewer:
 
-| Viewer | Package | macOS | Mac |
+| Viewer | Download | macOS | Mac |
 |---|---|---|---|
-| IsiX DICOM Viewer 6.0+ (GitHub build) | `CalciumScore-IsiX-1.0.0.zip` | 15 or later | Apple silicon and Intel |
-| Horos 4.0.1 | `CalciumScore-Horos-1.0.0.zip` | 11 or later | Apple silicon and Intel |
+| IsiX DICOM Viewer 6.0+ (GitHub build) | [**CalciumScore-IsiX-1.0.0.zip**](https://github.com/ArtemSobolev95/CalciumScore-macOS/raw/main/downloads/CalciumScore-IsiX-1.0.0.zip) | 15 or later | Apple silicon and Intel |
+| Horos 4.0.1 | [**CalciumScore-Horos-1.0.0.zip**](https://github.com/ArtemSobolev95/CalciumScore-macOS/raw/main/downloads/CalciumScore-Horos-1.0.0.zip) | 11 or later | Apple silicon and Intel |
 
 Each package works on both kinds of Mac. The App Store version of IsiX loads no plugins; use the
 [GitHub build of IsiX](https://github.com/ThalesMMS/IsiX-DICOM-Viewer-macOS/releases).
